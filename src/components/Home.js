@@ -31,7 +31,7 @@ const Home = () => {
 
   const loadContent = () => {
     return (
-      <div className="container">
+      <div className="">
         {loading ? (
           <div class="text-center">
             <br />
